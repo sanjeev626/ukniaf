@@ -1,0 +1,71 @@
+
+/*# sourceMappingURL=custom.min.css.map */
+
+.asterisk{
+	color: #FF0000;
+	font-size: 16px;
+}
+
+.w-200{
+	width:200px;	
+}
+
+.w-150{
+	width:150px;	
+}
+
+.w-100{
+	width:100px;	
+}
+
+.ht-100{
+	height:100px !important;	
+}
+
+tbody, td, tfoot, th, thead, tr {
+	border-style: none !important;
+}
+.dataTables_wrapper.no-footer .dataTables_scrollBody{
+	border-bottom: 0px !important;
+}
+
+.spacebreak{
+	height: 30px;
+}
+.choices {
+	margin-bottom: 3px;
+}
+
+@media (min-width: 1024px){
+	.container-fluid{
+		max-width: 100% !important;
+	}
+	.padding_2{		
+		padding-left: 2px !important;
+		padding-right: 2px !important;
+	}
+	.width_11{
+		width: 11%;
+	}
+
+	.width_10{
+		width: 10%;
+	}
+
+	.width_9{
+		width: 9%;
+	}
+	.form-label{
+		font-size: 12px;
+	}
+	.search_section_label{
+		padding-top: 10px;
+		padding-right: 10px;
+	}
+
+	table.dataTable thead .sorting{
+		font-size: 12px;
+		width: 145px !important;
+	}
+
+}

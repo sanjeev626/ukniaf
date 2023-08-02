@@ -1,0 +1,27 @@
+@charset "UTF-8";
+@import url(https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap);
+@font-face{
+	font-family:segoeui;
+	src:url(../fonts-new/segoeuil.ttf);
+	font-weight:300
+}
+@font-face{
+	font-family:segoeui;
+	src:url(../fonts-new/segoeui.ttf);
+	font-weight:400
+}
+@font-face{
+	font-family:segoeui;
+	src:url(../fonts-new/segoeuiz.ttf);
+	font-weight:500
+}
+@font-face{
+	font-family:segoeui;
+	src:url(../fonts-new/segoeuib.ttf);
+	font-weight:600
+}
+@font-face{
+	font-family:segoeui;
+	src:url(../fonts-new/segoeuib.ttf);
+	font-weight:700
+}
